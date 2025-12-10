@@ -1,0 +1,12 @@
+{
+  "KEY-TEST-123": {
+    "client": "Client Démo",
+    "expire": "2026-01-01",
+    "active": true
+  },
+  "KEY-TEST-999": {
+    "client": "Client Bloqué",
+    "expire": "2024-01-01",
+    "active": false
+  }
+}
