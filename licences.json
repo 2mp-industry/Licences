@@ -1,11 +1,11 @@
 {
   "KEY-TEST-123": {
-    "client": "Client Démo",
+    "client": "Mohamed",
     "expire": "2026-01-01",
     "active": true
   },
   "KEY-TEST-999": {
-    "client": "Client Bloqué",
+    "client": "Cherifa",
     "expire": "2024-01-01",
     "active": false
   }
