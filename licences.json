@@ -1,14 +1,14 @@
 {
   "KEY-TEST-123": {
     "client": "Mohamed",
-    "name": "DESKTOP-E225SOT",
+    "hostname": "DESKTOP-E225SOT",
     "ip": "192.168.10.132",
     "expire": "2026-01-01",
     "active": true
   },
   "KEY-TEST-999": {
     "client": "Cherifa",
-    "name": "DESKTOP-E225SOT",
+    "hostname": "DESKTOP-E225SOT",
     "ip": "192.168.10.132",
     "expire": "2024-01-01",
     "active": false
